@@ -1,4 +1,4 @@
-# Olá, me chamo Kauan Sousa  👋
+# Olá, me chamo Kauan Sousa 👋
 
 🎯 Tenho 16 anos  
 🐍 Atualmente aprendendo Python  
@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
 ---
 
 ## 📫 Contato
@@ -34,6 +35,15 @@
 ## 🌎 Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-user)
+
+---
+
+> **Josué 1:9**  
+> *"Seja forte e corajoso... pois o Senhor, o seu Deus, estará com você por onde você andar."*
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/fb/f8/8a/fbf88ab89a2d8bcdb17622c90a04df0d.jpg" width="300">
+</p>
 
 ---
 
